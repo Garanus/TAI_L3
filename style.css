@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+}
+ul{
+    padding: 0;
+}
+ul > li {
+    display: inline-block;
+    background-color: white;
+    color: white;
+    padding: 20px;
+
+}
+h1 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.kontakt1 {
+    padding: 50px;
+    background-color: wheat;
+}
+.padowanie1{
+    padding-top: 20px;
+
+}
+.main1{
+    background-color: yellowgreen;
+    padding-top: 40px;
+    padding-bottom: 50%;
+}
+.foter1{
+    background-color: #19484d;
+}
