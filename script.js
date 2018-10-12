@@ -156,7 +156,7 @@
         });
 
         // show number of correct answers out of total
-        resultsContainer.innerHTML = `${numCorrect} Poprawne na : ${myQuestions.length}`;
+        resultsContainer.innerHTML = `Gratulacje! Masz : ${numCorrect} poprawnych odpowiedzi na : ${myQuestions.length} możliwych do uzyskania`;
     }
 
     function showSlide(n) {

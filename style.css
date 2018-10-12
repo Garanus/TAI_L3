@@ -124,3 +124,9 @@ button:hover{
     line-height: 30px; /* To center it vertically */
     color: white;
 }
+.result {
+    text-align: center;
+    line-height: 30px;
+    color: dodgerblue;
+    font-size: x-large;
+}
